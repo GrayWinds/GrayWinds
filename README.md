@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrayWinds
+- 👋 Hi, I’m @jayanth
 - 👀 I’m interested in WEB DEVELPMENT
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on 
